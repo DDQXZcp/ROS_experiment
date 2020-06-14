@@ -24,3 +24,7 @@ https://cloud.tencent.com/developer/news/193698
 ### FreeRTOS bilibili
 
 https://www.bilibili.com/read/cv2519852
+
+### Python 爬虫
+
+https://zhuanlan.zhihu.com/p/30032305
