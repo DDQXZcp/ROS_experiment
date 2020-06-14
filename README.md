@@ -12,3 +12,7 @@ https://itsfoss.com/could-not-get-lock-error/
 https://blog.csdn.net/Glutdy/article/details/77587227
 
 在 ROS 和 mbed 的环境下准备驱动二轮差分底盘
+
+### DJI考试
+
+https://blog.csdn.net/qq_38410730/article/details/80951443
