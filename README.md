@@ -16,3 +16,11 @@ https://blog.csdn.net/Glutdy/article/details/77587227
 ### DJI考试
 
 https://blog.csdn.net/qq_38410730/article/details/80951443
+
+### FreeRTOS mbed
+
+https://cloud.tencent.com/developer/news/193698
+
+### FreeRTOS bilibili
+
+https://www.bilibili.com/read/cv2519852
