@@ -36,3 +36,7 @@ https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part
 ### stm32 F1 project & example
 
 https://www.st.com/zh/embedded-software/stm32cubef1.html
+
+### Spartan arduino edge esp32
+
+https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board/
