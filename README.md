@@ -32,3 +32,7 @@ https://zhuanlan.zhihu.com/p/30032305
 ### SIFT tutirial
 
 https://medium.com/@russmislam/implementing-sift-in-python-a-complete-guide-part-1-306a99b50aa5
+
+### stm32 F1 project & example
+
+https://www.st.com/zh/embedded-software/stm32cubef1.html
