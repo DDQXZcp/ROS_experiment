@@ -40,3 +40,7 @@ https://www.st.com/zh/embedded-software/stm32cubef1.html
 ### Spartan arduino edge esp32
 
 https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board/
+
+### 深度学习 inpainting
+
+https://www.zhihu.com/question/56801298
