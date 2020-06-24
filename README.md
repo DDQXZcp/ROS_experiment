@@ -44,3 +44,7 @@ https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board/
 ### 深度学习 inpainting
 
 https://www.zhihu.com/question/56801298
+
+### ST-ling not detected solution
+
+https://blog.csdn.net/xu_x_x/article/details/100609562?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
